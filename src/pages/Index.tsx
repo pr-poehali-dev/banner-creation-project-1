@@ -11,7 +11,7 @@ const Index = () => {
             </div>
             <div className="flex-shrink-0">
               <img 
-                src="https://cdn.poehali.dev/files/6d55bf90-aaf7-4996-9394-a11d5bb16475.jpg"
+                src="https://cdn.poehali.dev/files/05208709-0a5f-4e8e-9e94-7c54f5ef906e.jpg"
                 alt="Anime character"
                 className="w-64 h-64 object-cover rounded-2xl border-4 border-white shadow-2xl"
               />
